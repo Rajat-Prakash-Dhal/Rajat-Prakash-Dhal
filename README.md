@@ -5,3 +5,10 @@
     <img src="https://img.shields.io/badge/🌐_Visit_My_Website-blue?style=for-the-badge" alt="Website Badge"/>
   </a>
 </p>
+
+<p align="center">
+  Alternative, Upgrading.. 👇<br><br>
+  <a href="https://rajatprakashdhal.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-blue?style=for-the-badge" alt="Website Badge"/>
+  </a>
+</p>
