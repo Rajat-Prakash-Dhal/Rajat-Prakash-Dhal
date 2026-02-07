@@ -12,3 +12,6 @@
     <img src="https://img.shields.io/badge/🌐_In_Process-blue?style=for-the-badge" alt="Website Badge"/>
   </a>
 </p>
+
+<p> Do check my RESUME
+</p>
