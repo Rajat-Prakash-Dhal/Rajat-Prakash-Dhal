@@ -13,5 +13,5 @@
   </a>
 </p>
 
-<p> Do check my RESUME
+<p align="center"> Do check my RESUME
 </p>
